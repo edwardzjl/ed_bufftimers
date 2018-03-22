@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: ed_bufftimers
+## Notes: simple addon to track important buffs of player, target and focus
+## Author: Edwardlol
+## Version: 1.0
+## DefaultState:
+
+settings.lua
+ed_bufftimers.lua
