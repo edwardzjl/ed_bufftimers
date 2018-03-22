@@ -52,8 +52,8 @@ local DemonHunterBuffList = {
 }
 local DruidBuffList = {
   -- restoration
-  155777, -- rejuvenation germination / 回春术（萌芽）
   33763,  -- lifebloom / 生命绽放
+  155777, -- rejuvenation germination / 回春术（萌芽）
   114108, -- soul of the forest / 丛林之魂
   22812,  -- barkskin / 树皮术
   102342, -- ironbark / 铁木树皮
@@ -64,17 +64,17 @@ local DruidBuffList = {
   164547, -- lunar enpowerment / 月光增效
   102560, -- incarnation chosen of elune / 化身：艾露恩之眷
   -- feral
-  69369,  -- predatory swiftness / 掠食者的迅捷
-  145152, -- bloodtalons / 血腥爪击
   52610,  -- savage roar / 野蛮咆哮
   5217,   -- tigers fury / 猛虎之怒
+  145152, -- bloodtalons / 血腥爪击
+  69369,  -- predatory swiftness / 掠食者的迅捷
   102543, -- incarnation king of the jungle / 化身：丛林之王
-  -- 135700, -- clearcasting
+  -- 135700, -- clearcasting / 节能施法
   -- guardian
   102558, -- incarnation son of ursoc / 化身：乌索克的守护者
   -- all
   774,    -- rejuvenation / 回春术
-  16870,  -- clearcast / 节能施法
+  16870,  -- clearcasting / 节能施法
 }
 local HunterBuffList = {
   --53257,  --cobra strikes
